@@ -1,0 +1,71 @@
+place: Ena's restaurnt
+this is a fabulous place were you get yummy meals!
+=> go to street 2 => go to street 2
+=> go to street 3 => go to street 3
+=> go and change your character => go to Ena's boitque
+
+place: street 2
+this is the second place it is were your adventure might start
+=> go to street 3 => go to street 3
+=> go to Ena's restaurnt => go to Ena's restaurnt 
+
+place: street 3
+this is the third place this might be were your adventure might start
+=> go to street 2 => go to street 2
+=> go to Ena's restaurnt => go to Ena's restaurnt
+=> go and change your character => go to Ena's boitque
+
+place: Ena's boitque
+you can change your character here at any time
+=> go and get some bread and cakes => go to flat
+=> go to your room in the flat => go to flat
+
+place: Bakers
+this is were you have treats and your daily bread
+=> go back => go to Ena's boitque
+
+place: flat
+this is a level were you live
+=> go sit on the pached sofa => go to p sofa
+=> go to bed on the 4 poster bed => go to 4 p bed
+
+place: p sofa 
+this is a place were you can sit down 
+=> go to the toy shop => go to  toy shop
+=> have a groom => go to salon
+
+place: 4 p bed 
+this is a nice place to snooze and relax
+=> go to bed  =>  go to dream
+=> go back => go to flat
+
+place: toy shop
+you can get lots of toys here
+=> go back => go to flat
+
+place: salon
+you can get a chic style here
+=> go to desiner mini game => go to mini game
+=> go back => go to flat
+
+place: dream 
+wellcome here your have all your dreams
+=> wake up =>  go to flat
+
+place: mini game
+go on chose
+=> back => go to flat
+=> start => go to wardrobe
+
+place: wardrobe
+pick your desines
+=> pink frilly dress => go to done
+=> puple silk dress => go to done
+=> blue puff dress => go to done
+=> red thin dress => go to done
+=> multi colered short dress => go to done
+
+place: done
+you are done 
+=> start again => wardrobe
+=> done => go to flat

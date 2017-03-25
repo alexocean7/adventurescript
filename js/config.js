@@ -1,4 +1,4 @@
 var config = {
     debug: false,
-    game: 'ena'
+    game: 'ena2'
 }
