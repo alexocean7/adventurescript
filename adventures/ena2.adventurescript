@@ -2,7 +2,6 @@ place: Ena's restaurnt
 this is a fabulous place were you get yummy meals!
 => go to street 2 => go to street 2
 => go to street 3 => go to street 3
-=> go and change your character => go to Ena's boitque
 
 place: street 2
 this is the second place it is were your adventure might start
@@ -17,7 +16,7 @@ this is the third place this might be were your adventure might start
 
 place: Ena's boitque
 you can change your character here at any time
-=> go and get some bread and cakes => go to flat
+=> go and get some bread and cakes => go to bakers
 => go to your room in the flat => go to flat
 
 place: Bakers
@@ -67,5 +66,4 @@ pick your desines
 
 place: done
 you are done 
-=> start again => wardrobe
 => done => go to flat
